@@ -1,7 +1,7 @@
 "Comment","Designator","Footprint","LCSC Part #"
 "100nF 0402","C1,C3,C4,C6,C7,C8,C10,C11,C12","C_0402_1005Metric","no_part_number"
 "1uF 0402","C2,C5,C16,C17","C_0402_1005Metric","no_part_number"
-"PCG0E472MCL1GS","C9","CP_Elec_10x12.6","no_part_number"
+"PCG0E472MCL1GS","C9","CP_Elec_18x17.5","no_part_number"
 "22pF 0402","C14,C15","C_0402_1005Metric","no_part_number"
 "SMA general purpose","D1","D_SMA","no_part_number"
 "1n4004","D2,D3,D4,D5,D6,D7","D_SMA","no_part_number"
