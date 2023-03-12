@@ -3,4 +3,6 @@
   (lib (name "MX_Alps_Hybrid")(type "Legacy")(uri "${KIPRJMOD}/Schematic_Library/MX_Alps_Hybrid.lib")(options "")(descr ""))
   (lib (name "PicoModified")(type "KiCad")(uri "${KIPRJMOD}/Schematic_Library/PicoModified.kicad_sym")(options "")(descr ""))
   (lib (name "MCU_RaspberryPi_and_Boards")(type "Legacy")(uri "${KIPRJMOD}/Schematic_Library/MCU_RaspberryPi_and_Boards.lib")(options "")(descr ""))
+  (lib (name "TPS20XX")(type "KiCad")(uri "${KIPRJMOD}/Schematic_Library/TPS20XX.kicad_sym")(options "")(descr ""))
+  (lib (name "AP22615")(type "KiCad")(uri "${KIPRJMOD}/Schematic_Library/AP22615.kicad_sym")(options "")(descr ""))
 )
